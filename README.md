@@ -42,7 +42,8 @@ If you perform frequent copy-paste tasks, this script will help you save time an
 
 1. **Download the Executable**:
 
-   - Download the compiled `.exe` file from the releases section.
+   - Download the precompiled `.exe` file from the [Releases section](https://github.com/shuaib-code/copy_paste_helper/releases), or click the link below:  
+     [**➡️ Download copy_paste_helper.exe**](bin/copy_paste_helper.exe)
 
 2. **Run the Executable**:
 
