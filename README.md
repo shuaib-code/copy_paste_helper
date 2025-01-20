@@ -26,28 +26,46 @@ This **AutoHotkey** script simplifies copy-paste operations with custom keyboard
 
 ## 🔧 How to Use
 
-### 🔹 Method 1: Using the AutoHotkey Script (.ahk)
+### 🟢 Method 1: Using the AutoHotkey Script (.ahk)
 
-1️⃣ **Install AutoHotkey**: [Download Here](https://www.autohotkey.com/)  
-2️⃣ **Save the Script**: Download and store the `.ahk` file on your PC 💾  
-3️⃣ **Run the Script**: Right-click the `.ahk` file → **Run Script** ▶️  
-4️⃣ **Use Shortcuts**:
+1️⃣ **Install AutoHotkey**
 
-- 🔹 **F1** → Copy (Ctrl + C) & play sound 🎵
-- 🔹 **F2** → Paste (Ctrl + V) 📋
+- [Download AutoHotkey](https://www.autohotkey.com/) and install it.
 
-### 🔹 Method 2: Using the Executable File (.exe)
+2️⃣ **Save the Script**
 
-1️⃣ **Download the Executable**: Grab the precompiled `.exe` file:  
- 📥 [**➡️ Download copy_paste_helper.exe**](https://github.com/shuaib-code/copy_paste_helper/raw/refs/heads/main/bin/copy_paste_helper.exe)  
-2️⃣ **Run the Executable**: Double-click the `.exe` file to activate it 🖱️  
-3️⃣ **Use Shortcuts**:
+- Download and store the `.ahk` file on your PC. 💾
 
-- 🔹 **F1** → Copy & play sound 🎵
-- 🔹 **F2** → Paste 📋
-  4️⃣ **(Optional) Add to Startup** 🖥️:
-- Press **Win + R**, type `shell:startup`, and hit **Enter** ⌨️
-- Copy-paste the `.exe` file into the **Startup** folder 🚀
+3️⃣ **Run the Script**
+
+- Right-click the `.ahk` file and select **Run Script** ▶️
+
+4️⃣ **Use Keyboard Shortcuts**
+
+- 🖱️ **F1** → Copy (Ctrl + C) & play sound 🎵
+- 🖱️ **F2** → Paste (Ctrl + V) 📋
+
+---
+
+### 🟢 Method 2: Using the Executable File (.exe)
+
+1️⃣ **Download the Executable**
+
+- 📥 [**➡️ Download copy_paste_helper.exe**](https://github.com/shuaib-code/copy_paste_helper/raw/refs/heads/main/bin/copy_paste_helper.exe)
+
+2️⃣ **Run the Executable**
+
+- Double-click the `.exe` file to activate it. 🖱️
+
+3️⃣ **Use Keyboard Shortcuts**
+
+- 🖱️ **F1** → Copy & play sound 🎵
+- 🖱️ **F2** → Paste 📋
+
+4️⃣ **(Optional) Add to Startup** 🖥️
+
+- Press **Win + R**, type `shell:startup`, and press **Enter** ⌨️
+- Copy and paste the `.exe` file into the **Startup** folder. 🚀
 
 🔹 _The `.exe` version does not require AutoHotkey installation._
 
