@@ -40,42 +40,14 @@ This **AutoHotkey** script simplifies copy-paste operations with custom keyboard
 
 - Right-click the `.ahk` file and select **Run Script** ▶️
 
-4️⃣ **Use Keyboard Shortcuts**
-
-- 🖱️ **F1** → Copy (Ctrl + C) & play sound 🎵
-- 🖱️ **F2** → Paste (Ctrl + V) 📋
-
 ---
 
-### 🟢 Method 2: Using the Executable File (.exe)
-
-1️⃣ **Download the Executable**
-
-- 📥 [**➡️ Download copy_paste_helper.exe**](https://github.com/shuaib-code/copy_paste_helper/raw/refs/heads/main/bin/copy_paste_helper.exe)
-
-2️⃣ **Run the Executable**
-
-- Double-click the `.exe` file to activate it. 🖱️
-
-3️⃣ **Use Keyboard Shortcuts**
-
-- 🖱️ **F1** → Copy & play sound 🎵
-- 🖱️ **F2** → Paste 📋
-
-4️⃣ **(Optional) Add to Startup** 🖥️
-
-- Press **Win + R**, type `shell:startup`, and press **Enter** ⌨️
-- Copy and paste the `.exe` file into the **Startup** folder. 🚀
-
-🔹 _The `.exe` version does not require AutoHotkey installation._
-
----
-
-### 🟢 Method 3: Using the PowerShell Script (.ps1)
+### 🟢 Method 2: Using the PowerShell Script (.ps1)
 
 1️⃣ **Run the PowerShell Script Directly**
 
 - Open PowerShell as an administrator (optional for elevated tasks).
+
 - Run the following command to directly download and execute the installation script:
   ```powershell
   irm "https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/main/install.ps1" | iex
@@ -83,9 +55,7 @@ This **AutoHotkey** script simplifies copy-paste operations with custom keyboard
 
 2️⃣ **Follow On-Screen Instructions**
 
-- The script will guide you through the installation process. It will download the executable, install it in the appropriate directory, and configure it to run at startup.
-
-🔹 _This method directly installs the application from the script hosted on GitHub without needing to download the file manually. It’s a fast and easy way to set up the application with minimal steps._
+- The script will install and configure the app to run at startup.
 
 ---
 
@@ -94,13 +64,6 @@ This **AutoHotkey** script simplifies copy-paste operations with custom keyboard
 - **F1**: Sends `Ctrl+C` (Copy) and plays a notification sound 🔊
 - **F2**: Sends `Ctrl+V` (Paste) 📋
 - **Sound Feedback**: Confirms successful copying ✅
-
----
-
-## 🎯 Benefits of the Executable
-
-🔹 **No Need for AutoHotkey** – Run without installing AutoHotkey ⚡  
-🔹 **Portable** – Use it on any Windows computer 📂
 
 ---
 
