@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/main/assets/banner.png" alt="Copy-Paste Helper Banner" style="width: 100%;"/>
+<img src="https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/refs/heads/main/assets/banner.png" alt="Copy-Paste Helper Banner" style="width: 100%;"/>
 
 # <img src="https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/main/assets/icon.png" alt="Copy-Paste Helper Icon" style="height: 30px; vertical-align: middle;"/> Copy Paste Helper
 
