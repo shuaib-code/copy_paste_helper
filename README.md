@@ -1,3 +1,5 @@
+![Copy-Paste Helper Icon](https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/refs/heads/main/assets/icon.png)
+
 # 📋 Copy-Paste AutoHotkey Script
 
 This **AutoHotkey** script simplifies copy-paste operations with custom keyboard shortcuts, providing instant feedback with sound notifications for a faster and more efficient workflow. 🚀
