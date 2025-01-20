@@ -71,6 +71,24 @@ This **AutoHotkey** script simplifies copy-paste operations with custom keyboard
 
 ---
 
+### 🟢 Method 3: Using the PowerShell Script (.ps1)
+
+1️⃣ **Run the PowerShell Script Directly**
+
+- Open PowerShell as an administrator (optional for elevated tasks).
+- Run the following command to directly download and execute the installation script:
+  ```powershell
+  irm "https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/main/install.ps1" | iex
+  ```
+
+2️⃣ **Follow On-Screen Instructions**
+
+- The script will guide you through the installation process. It will download the executable, install it in the appropriate directory, and configure it to run at startup.
+
+🔹 _This method directly installs the application from the script hosted on GitHub without needing to download the file manually. It’s a fast and easy way to set up the application with minimal steps._
+
+---
+
 ## ⚙️ How It Works
 
 - **F1**: Sends `Ctrl+C` (Copy) and plays a notification sound 🔊
