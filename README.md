@@ -1,4 +1,6 @@
-![Copy-Paste Helper Icon](https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/refs/heads/main/assets/icon.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shuaib-code/copy_paste_helper/main/assets/icon.png" alt="Copy-Paste Helper Icon" width="150" height="150">
+</p>
 
 # 📋 Copy-Paste AutoHotkey Script
 
@@ -82,6 +84,7 @@ This project is licensed under the [MIT License](LICENSE). 📝
 ## 🙌 Acknowledgments
 
 💡 Built using **AutoHotkey**, a powerful scripting language for Windows automation.  
-🎵 Uses the default system sound `notify.wav` for feedback.
+🎵 Uses the default system sound `notify.wav` for feedback.  
+🖼️ Icon sourced from the internet. If you own the icon and want credit or removal, please contact us.
 
 🚀 **Boost your productivity with this easy-to-use AutoHotkey script!** 🚀
